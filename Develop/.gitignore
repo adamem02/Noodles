@@ -1,9 +1,9 @@
 .DS_Store
 .vscode/
 settings.json
-package-lock.json
-node_modules/
-package.json
 dist/
 .env
 logs/git 
+node_modules/
+package-lock.json
+package.json
