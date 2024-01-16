@@ -3,11 +3,7 @@
   ## Description
   As a developer
 I want a README generator
-so that I can quickly create a professional README for a new project
-  ## Deployed Application URL
-  https://github.com/adamem02/Noodles
-  ## Demo
-  [(https://drive.google.com/file/d/10QtBUg9-V7tduxnZ00zrxXzQM-cQ_DXq/view?usp=sharing) ]  
+so that I can quickly create a professional README for a new project. Down below is my demo on how I created the README generator.
 ## Table of Contents
   * [Features](#features)
   * [Languages & Dependencies](#languagesanddependencies)
@@ -15,14 +11,18 @@ so that I can quickly create a professional README for a new project
   * [Contributors](#contributors)
   * [Testing](#testing)
   * [Questions](#questions)
+  ## Deployed Application URL
+  https://github.com/adamem02/Noodles
+  ## Demo
+  ![Alt text](Readme.gif)
   ## Features
-  n/a
+  N/A
   ## Languages & Dependencies
-  n/a
+  JavaScript, Node.js, MarkDown, JSON
   ## How to Use This Application:
-  JavaScript, node.js
+  Open the command line application then simply answer all the questions and the README will be generated. 
   ## Contributors
-  none
+  None
   ## Testing
   n/a
   ## Questions
